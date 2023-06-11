@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat GPT - Inteligencia Artificial Conversacional</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    h1 {
+      color: #333;
+      text-align: center;
+      margin-top: 0;
+    }
+    
+    .content {
+      color: #555;
+      line-height: 1.6;
+      text-align: justify;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Chat GPT - Inteligencia Artificial Conversacional</h1>
+    
+    <div class="content">
+      <p>
+        Bienvenido a Chat GPT, una experiencia revolucionaria en inteligencia artificial conversacional. Con Chat GPT, puedes disfrutar de conversaciones interactivas y naturales con un sistema de IA avanzado.
+      </p>
+      
+      <p>
+        Nuestro sistema utiliza algoritmos de procesamiento del lenguaje natural para entender tus preguntas y proporcionar respuestas relevantes en tiempo real. Ya sea que necesites asistencia, información o simplemente quieras tener una charla interesante, Chat GPT está aquí para ayudarte.
+      </p>
+      
+      <p>
+        Imagina las posibilidades que ofrece esta tecnología: desde chatbots inteligentes para brindar soporte al cliente hasta asistentes virtuales personales que pueden recordar tus preferencias y adaptarse a tus necesidades.
+      </p>
+      
+      <p>
+        Únete a la revolución de la inteligencia artificial conversacional y descubre cómo Chat GPT está transformando la forma en que interactuamos con la tecnología. ¡Comienza una conversación hoy mismo!
+      </p>
+    </div>
+  </div>
+</body>
+</html>
